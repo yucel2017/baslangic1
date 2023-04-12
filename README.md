@@ -7,3 +7,5 @@ Bu proje, ilk proje olmasına rağmen, titiz bir çalışmayla tasarlandı ve g�
 Projenin içeriği ve amacı hakkında daha fazla bilgi veremiyorsam da, umarım sizin de beğeneceğiniz bir tasarım ortaya çıkarmayı başarmışımdır.
 
 Teşekkürler.
+
+![](önsunum.gif)
